@@ -1,0 +1,1 @@
+gem 'jekyll-sitemap', '~> 0.10.0'
